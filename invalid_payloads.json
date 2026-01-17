@@ -1,0 +1,11 @@
+{
+  "missing_email": {
+    "username": "user1",
+    "password": "Test@123"
+  },
+  "invalid_email": {
+    "username": "user2",
+    "email": "invalid-email",
+    "password": "Test@123"
+  }
+}
